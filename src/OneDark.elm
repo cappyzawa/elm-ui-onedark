@@ -19,7 +19,7 @@ module OneDark exposing
 
 -}
 
-import Element exposing (Color, rgb)
+import Element exposing (Color, rgb255)
 
 
 {-| rgb(40, 44, 52)
@@ -27,7 +27,7 @@ import Element exposing (Color, rgb)
 -}
 black : Color
 black =
-    Element.rgb 40 44 52
+    Element.rgb255 40 44 52
 
 
 {-| rgb(171, 178, 191)
@@ -35,7 +35,7 @@ black =
 -}
 white : Color
 white =
-    Element.rgb 171 178 191
+    Element.rgb255 171 178 191
 
 
 {-| rgb(224, 108, 117)
@@ -43,7 +43,7 @@ white =
 -}
 lightRed : Color
 lightRed =
-    Element.rgb 224 108 117
+    Element.rgb255 224 108 117
 
 
 {-| rgb(190, 80, 70)
@@ -51,7 +51,7 @@ lightRed =
 -}
 darkRed : Color
 darkRed =
-    Element.rgb 190 80 70
+    Element.rgb255 190 80 70
 
 
 {-| rgb(152, 195, 121)
@@ -59,7 +59,7 @@ darkRed =
 -}
 green : Color
 green =
-    Element.rgb 152 195 121
+    Element.rgb255 152 195 121
 
 
 {-| rgb(229, 192, 123)
@@ -67,7 +67,7 @@ green =
 -}
 lightYellow : Color
 lightYellow =
-    Element.rgb 229 192 123
+    Element.rgb255 229 192 123
 
 
 {-| rgb(209, 154, 102)
@@ -75,7 +75,7 @@ lightYellow =
 -}
 darkYellow : Color
 darkYellow =
-    Element.rgb 209 154 102
+    Element.rgb255 209 154 102
 
 
 {-| rgb(97, 175, 239)
@@ -83,7 +83,7 @@ darkYellow =
 -}
 blue : Color
 blue =
-    Element.rgb 97 175 239
+    Element.rgb255 97 175 239
 
 
 {-| rgb(198, 120, 221)
@@ -91,7 +91,7 @@ blue =
 -}
 magenta : Color
 magenta =
-    Element.rgb 198 120 221
+    Element.rgb255 198 120 221
 
 
 {-| rgb(86, 182, 194)
@@ -99,7 +99,7 @@ magenta =
 -}
 cyan : Color
 cyan =
-    Element.rgb 86 182 194
+    Element.rgb255 86 182 194
 
 
 {-| rgb(76, 82, 99)
@@ -107,7 +107,7 @@ cyan =
 -}
 gutterGrey : Color
 gutterGrey =
-    Element.rgb 76 82 99
+    Element.rgb255 76 82 99
 
 
 {-| rgb(92, 99, 112)
@@ -115,4 +115,4 @@ gutterGrey =
 -}
 commentGrey : Color
 commentGrey =
-    Element.rgb 92 99 112
+    Element.rgb255 92 99 112
