@@ -1,20 +1,3 @@
-# elm-ui-onedark
-[![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
-
-elm packages: [elm\-ui\-onedark 1\.0\.2](https://package.elm-lang.org/packages/cappyzawa/elm-ui-onedark/latest/)<br>
-One Dark color scheme using https://github.com/mdgriffith/elm-ui
-
-## Color Reference
-![](https://raw.githubusercontent.com/cappyzawa/demo/master/elm-ui-onedark/color.png)
-
-## Install
-```bash
-$ elm install cappyzawa/elm-ui-onedark
-```
-
-## Example
-
-```elm
 module Main exposing (main)
 
 {-| -}
@@ -81,5 +64,3 @@ main =
                 [ Font.color OneDark.commentGrey ]
                 (text "commentGrey")
             ]
-```
-

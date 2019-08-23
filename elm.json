@@ -3,7 +3,7 @@
     "name": "cappyzawa/elm-ui-onedark",
     "summary": "One Dark color scheme using https://github.com/mdgriffith/elm-ui",
     "license": "BSD-3-Clause",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "exposed-modules": [
         "OneDark"
     ],
