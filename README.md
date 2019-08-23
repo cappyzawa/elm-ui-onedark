@@ -2,7 +2,7 @@
 One Dark color scheme using https://github.com/mdgriffith/elm-ui
 
 ## Color Reference
-![.](https://raw.githubusercontent.com/joshdick/onedark.vim/master/img/color_reference.png)
+<img src="https://raw.githubusercontent.com/joshdick/onedark.vim/master/img/color_reference.png" width="600px"><br> 
 *original image is in https://github.com/joshdick/onedark.vim*
 
 ## Install
