@@ -1,7 +1,10 @@
 # elm-ui-onedark
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)
 
-elm packages: [elm\-ui\-onedark 1\.0\.2](https://package.elm-lang.org/packages/cappyzawa/elm-ui-onedark/latest/)<br>
+**DEPRECATED: please use [cappyzawa/elm\-ui\-colors: The colors for https://github\.com/mdgriffith/elm\-ui](https://github.com/cappyzawa/elm-ui-colors)**
+
+---
+elm packages: [elm\-ui\-onedark](https://package.elm-lang.org/packages/cappyzawa/elm-ui-onedark/latest/)<br>
 One Dark color scheme using https://github.com/mdgriffith/elm-ui
 
 ## Color Reference
